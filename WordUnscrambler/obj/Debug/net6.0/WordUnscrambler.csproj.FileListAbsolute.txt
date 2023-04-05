@@ -1,0 +1,15 @@
+C:\Users\Georgiana Dumitru\Desktop\C#\WordUnscambler\WordUnscrambler\bin\Debug\net6.0\WordUnscrambler.exe
+C:\Users\Georgiana Dumitru\Desktop\C#\WordUnscambler\WordUnscrambler\bin\Debug\net6.0\WordUnscrambler.deps.json
+C:\Users\Georgiana Dumitru\Desktop\C#\WordUnscambler\WordUnscrambler\bin\Debug\net6.0\WordUnscrambler.runtimeconfig.json
+C:\Users\Georgiana Dumitru\Desktop\C#\WordUnscambler\WordUnscrambler\bin\Debug\net6.0\WordUnscrambler.dll
+C:\Users\Georgiana Dumitru\Desktop\C#\WordUnscambler\WordUnscrambler\bin\Debug\net6.0\WordUnscrambler.pdb
+C:\Users\Georgiana Dumitru\Desktop\C#\WordUnscambler\WordUnscrambler\obj\Debug\net6.0\WordUnscrambler.csproj.AssemblyReference.cache
+C:\Users\Georgiana Dumitru\Desktop\C#\WordUnscambler\WordUnscrambler\obj\Debug\net6.0\WordUnscrambler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgiana Dumitru\Desktop\C#\WordUnscambler\WordUnscrambler\obj\Debug\net6.0\WordUnscrambler.AssemblyInfoInputs.cache
+C:\Users\Georgiana Dumitru\Desktop\C#\WordUnscambler\WordUnscrambler\obj\Debug\net6.0\WordUnscrambler.AssemblyInfo.cs
+C:\Users\Georgiana Dumitru\Desktop\C#\WordUnscambler\WordUnscrambler\obj\Debug\net6.0\WordUnscrambler.csproj.CoreCompileInputs.cache
+C:\Users\Georgiana Dumitru\Desktop\C#\WordUnscambler\WordUnscrambler\obj\Debug\net6.0\WordUnscrambler.dll
+C:\Users\Georgiana Dumitru\Desktop\C#\WordUnscambler\WordUnscrambler\obj\Debug\net6.0\refint\WordUnscrambler.dll
+C:\Users\Georgiana Dumitru\Desktop\C#\WordUnscambler\WordUnscrambler\obj\Debug\net6.0\WordUnscrambler.pdb
+C:\Users\Georgiana Dumitru\Desktop\C#\WordUnscambler\WordUnscrambler\obj\Debug\net6.0\WordUnscrambler.genruntimeconfig.cache
+C:\Users\Georgiana Dumitru\Desktop\C#\WordUnscambler\WordUnscrambler\obj\Debug\net6.0\ref\WordUnscrambler.dll
